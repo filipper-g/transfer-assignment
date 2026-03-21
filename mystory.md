@@ -6,4 +6,9 @@ It started on a rainy afternoon when he found his older sister’s laptop open, 
 He saved it. Then he changed it.
 “Tom is the worst explorer ever.”
 
+He frowned. The first version had been better—but now it was gone.
+His sister leaned over his shoulder. “You know, you can go back,” she said, opening something called Git. She showed him how to commit his work, like leaving checkpoints in a video game.
+Tom’s eyes widened. He rewrote his sentence again:
+“Tom is learning to be a great explorer.”
+Commit.
 
