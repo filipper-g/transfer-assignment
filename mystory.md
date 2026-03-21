@@ -12,3 +12,11 @@ Tom’s eyes widened. He rewrote his sentence again:
 “Tom is learning to be a great explorer.”
 Commit.
 
+Then he experimented. He made wild versions where Tom fought dragons, sailed oceans, even flew to Mars. Each time, he saved his progress. Each time, he could return.
+Soon, Tom stopped being afraid of getting things wrong. If a story didn’t work, he’d just try a new branch—his favorite word now. Branches meant possibilities.
+One evening, he proudly showed his sister a folder full of stories.
+“They’re all different,” he said, “but they all started the same.”
+She smiled. “That’s kind of how life works too.”
+Tom nodded, thinking about all the versions of himself he hadn’t tried yet.
+For the first time, mistakes didn’t feel like endings.
+They felt like commits.
